@@ -7,10 +7,10 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "Yellow Pineapple"
+  title: "A Walk with Shooting Star"
   type: "Jekyll"
   url: "https://github.com/arnolds/pineapple"
-  logo: "/assets/images/projects/yellowpineapple/logo.png"
+  logo: "/assets/images/projects/walk_with_shooting_star/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
