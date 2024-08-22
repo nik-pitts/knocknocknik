@@ -10,7 +10,7 @@ project:
   title: "Green Pineapple"
   type: "Jekyll"
   url: "https://github.com/arnolds/pineapple"
-  logo: "/assets/images/projects/greenpineapple/logo.png"
+  logo: "/assets/images/projects/smart_ass_piggy_po/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
