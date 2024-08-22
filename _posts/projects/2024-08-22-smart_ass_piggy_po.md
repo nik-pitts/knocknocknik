@@ -7,7 +7,7 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "Green Pineapple"
+  title: "Smart Cookie Piggy Po"
   type: "Jekyll"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/smart_ass_piggy_po/logo.png"
