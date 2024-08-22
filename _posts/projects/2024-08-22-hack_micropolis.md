@@ -7,7 +7,7 @@ meta:
   keywords: "Classic, Game"
 
 project:
-  title: "Aqua Pineapple"
+  title: "Hack Micorpolis"
   type: "Jekyll"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/hack_micropolis/logo.png"
