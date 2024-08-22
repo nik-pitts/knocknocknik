@@ -1,12 +1,12 @@
 # User config
 author: "Nik Kim"
-tagline: "Pineapple Powered Portfolio"
-description: "In 1493, explorer Christopher Columbus found pineapples on Guadeloupe Island in the Caribbean. Pineapple on pizza soon followed..."
-keywords: "Pineapple, Power, Portfolio"
+tagline: "Palyful Gaming AI"
+description: "I believe the true magic of gaming experiences lies in the shared moments of adventure—teaming up with siblings and friends, where laughter and shouts of victory mingled together. This powerful connection between people and games drives my passion for the intersection of Gaming and AI. I am fascinated by the potential of advanced AI technologies and algorithms to create interactive and collaborative machine agents that replicate this experience."
+keywords: "Game, Video Game, AI, ML, RL"
 email: "nnkim@andrew.cmu.edu"
-linkedin: "https://www.linkedin.com/"
-twitter: "https://twitter.com/"
-github: "https://github.com/"
+ml Blog: "https://nik-pitts.github.io/machinelearning601/"
+resume: "https://nik-pitts.github.io/"
+github: "https://github.com/nik-pitts"
 
 # Site config
 baseurl: "/knocknocknik"
