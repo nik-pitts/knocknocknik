@@ -4,13 +4,13 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: "Guitar Hero, Co-op, Machine Agent"
 
 project:
-  title: "Red Pineapple"
-  type: "Jekyll"
+  title: "Human Machine Guitar Hero"
+  type: "AI Agent"
   url: "https://github.com/arnolds/pineapple"
-  logo: "/assets/images/projects/redpineapple/logo.png"
+  logo: "/assets/images/projects/h-m_guitar_hero/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
